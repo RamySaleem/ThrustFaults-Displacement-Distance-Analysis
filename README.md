@@ -22,6 +22,12 @@ In this study, we use a high-resolution coal mines dataset as a series of subsur
 
 The study area is explored by high-resolution, closely spaced, coal mines with an aerial extent of 323.29 km2 and a depth of 2 km (Fig. 2). The subsurface data are provided by mine-workings (galleries, adits and shafts) as well as accompanying boreholes and seismic reflection profiles, which are supported by surface exposure enhanced by open-cast pits. These data were interpreted by Drozdzewski et al. (1980), who reported these observations and erected their own geological interpretations on a series of paper maps and cross-sections. They are a set of 12 serial cross-sections with a spacing of 1 to 2 km and tied by two cross-lines (Fig. 2). Further, Drozdzewski et al. (1980) indicate the levels of confidence in their interpretations critically using descriptive criteria. The stratigraphic column present in this study is put together and generated after Drozdzewski et al. (1980), Drozdzewski (1993), Suess et al. (2007), Cleal et al. (2009) and Uhl and Cleal (2010) (Fig. 3). The lithology, formations names, coal seams and stratigraphic units in this stratigraphic column are constrained by correlating the stratigraphic units from Drozdzewski et al. (1980) to other recent studies (e.g. Cleal et al. 2009; Uhl and Cleal 2010). 
 
+
+**Dataset can be found in the following links:**
+1. **Interpreted Images** https://drive.google.com/drive/folders/1j4PBXQyVx89rkVTvMS7Yjl7e7y5OTDrC?usp=sharing
+2. **Digitised Cross Sections** https://drive.google.com/drive/folders/1EabQCWqC1JExdLTRCJRx8MDAGHAhHy5N?usp=sharing
+3. All the maps and cross-section of the Ruhr subbasin, lower Rhine basin is available in the North Rhine-Westphalia Geological Survey – State Office – (GD NRW) for a fee https://www.gd.nrw.de/pr_kd.htm
+
 ## 2.2	Displacement-distance calculations and plots
 
 We study 14 subsurface cross-sections (12 in-lines and 2 cross-lines) that are located in the Ruhr coalfield and documented for coalmines exploration, the latter of which is only 2D structurally interpreted and studied along the western side of the coalfield (Fig. 2a). Within these 14 cross-sections, we investigate 346 thrust faults traces and plot the displacement-distance profiles for 98 of them, where we have 848 measurement points. 323 of these data points were measured in the rhyolite tuff layer, 289 within sandstone with siltstones, 149 in the coarse sandstone and 87 within the claystone. We focus on 98 exceptionally well-identified thrust faults that form part of a larger array of fold-thrust structures (Fig. 4). These thrust faults are also selected because we can comprehensively calculate the displacement of coal seams horizons and the distance from a reference point to the tips of the fault trace, therefore, generating displacement-distance profiles that allow us to constrain displacement distributions across their surfaces (e.g. Williams and Chapman 1983; Chapman and Williams 1984; Totake et al. 2018) and analyse the displacement distribution related to lithological changes in this multi-layered system. 
@@ -57,4 +63,20 @@ Our data strongly suggest that displacement profiles patterns are controlled by 
 •	Correlation between the maximum displacement and length of thrusts exhibits a linear relationship controlled by mechanical stratigraphy where the displacement profiles patterns spread around this regression line.
 
 Accordingly, our gradient values are much lower within the clay units than within the coarse sandstone or the Rhyolite tuff layers. However, the variation in the displacement gradients in the silty sandstone layers investigated here displays a wide range of variations with respect to the other lithologies, which is expected given the heterogeneity of the lithology content of these units. Indeed, the complexity of displacement-distance relationships is generally likely to rise with the increase in the heterogeneity of the lithology units. Nevertheless, the gradients obtained in this study increase with increasing the interaction of thinly interbedded successions. This indicates that the effect of the mechanical stratigraphy is combined by other parameters such as rock strength or by a heterogeneous stress distribution in relation to the layering. In light of these results, the displacement distance analysis and its gradient variations of thrusts faults in multilayer systems and with the support of its mechanical stratigraphy is the key to gaining further insights into thrust faults evolution.
+
+Future work
+===========
+To develop a workflow and web-based front end for the script, which will allow the rapid upload of geological data into the forward seismic modelling to generate synthetic seismic data.
+
+Acknowledgements 
+=================
+The work contained in this repositories contains work conducted during a PhD study undertaken as part of the Natural Environment Research Council (NERC) Centre for Doctoral Training (CDT) in Oil & Gas funded 50% through its National Productivity Investment Fund grant number NE/R01051X/1 and 50% by the University of Aberdeen through its PhD Scholarship Scheme. The support of both organisations is gratefully acknowledged. The work is reliant on Open-Source Python Libraries, particularly numpy, OpenCV, cv2 matplotlib, bruges and pandas and contributors to these are thanked, along with Jovian and GitHub for open access hosting of the Python scripts for the study.
+
+![University of Aberdeen](https://pbs.twimg.com/profile_images/1572172791801061377/UPSWmPyN_400x400.jpg)
+
+![NERC-CDT](https://nerc-cdt-oil-and-gas.ac.uk/wp-content/uploads/news/2015-news-NERC-funding.jpg)
+
+![NERC](https://auracdt.hull.ac.uk/wp-content/uploads/2019/11/UKRI_NER_Council-Logo_Horiz-RGB.png)
+
+![CDT](https://i.imgur.com/QDOhcN3.png)
 
