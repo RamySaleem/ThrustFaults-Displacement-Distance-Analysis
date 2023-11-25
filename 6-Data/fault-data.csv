@@ -1,0 +1,347 @@
+No.faults_Sc,Section,Horizons,Lithology,Uncertainty,Displacements,Throw,Heave,Length (m),Fault Av Plunge deg,Fault Av Plunge Azimuth,Angle (deg),Bedding plane dip HW,Bedding plane Azimuth HW,Bedding plane dip FW,Bedding plane Azimuth FW,Fault size
+Fault10_12,12,Ka,Fine sst with siltyclay ,Proven,30.2,28.6,9.7,324.1,77.93,325.62,71.27,35.08,145.62,51.01,325.62,Small
+Fault10_12,12,Er,Fine sst with siltyclay ,Proven,28,18.2,7.6,324.1,77.93,325.62,19.7,28.31,145.62,3.73,326.96,Small
+Fault10_12,12,Hu,Fine sst with siltyclay ,Assumed,11.1,9.5,0.5,324.1,77.93,325.62,86.99,47.96,145.62,47.32,325.62,Small
+FaultS22_4,4,Ma,Fine sst with siltyclay ,Secured,24.5,13.7,20.3,337,19.87,143.57,34,11.05,323.57,5.95,143.26,Small
+FaultS22_4,4,Hu,Fine sst with siltyclay ,Secured,52.4,17.3,49.2,337,19.87,143.57,15.38,33.46,323.57,4.89,143.57,Small
+FaultS22_4,4,Ka1,Fine sst with siltyclay ,Proven,57,8.8,56.7,337,19.87,143.57,8.84,6.88,32.57,6.25,143.57,Small
+Fault8_4,4,Gu,Fine sst with siltyclay ,Secured,43.5,18,39.6,381.5,26.7,156.2,24.48,1.77,336.2,15.47,336.2,Small
+Fault8_4,4,Ma,Fine sst with siltyclay ,Proven,20.1,8.4,18.3,381.5,26.7,156.2,24.8,0.7,156.2,21.63,336.2,Small
+Fault8_4,4,Hu,Fine sst with siltyclay ,Proven,24.8,12,21.8,381.5,26.7,156.2,28.79,1.47,336.2,22.14,336.2,Small
+Faultn14_7,7,Gu,Fine sst with siltyclay ,Secured,30.2,16.9,25,435.8,28.77,65.04,34.02,8.4,245.04,0,254.92,Small
+Faultn14_7,7,Ma,Fine sst with siltyclay ,Secured,9.4,4.8,8.1,435.8,28.77,65.04,30.47,9.08,245.04,18.04,245.04,Small
+Faultn14_7,7,Hu,Fine sst with siltyclay ,Assumed,7.7,3.7,6.7,435.8,28.77,65.04,28.76,10.55,245.04,13.51,245.04,Small
+Faultn14_7,7,Ka,Fine sst with siltyclay ,Proven,12,4.4,11.2,435.8,28.77,65.04,21.46,0.6,314.39,34.75,245.04,Small
+Fault14_7,7,GU,Fine sst with siltyclay ,Secured,30.2,16.9,25,435.8,28.77,65.04,34.02,8.4,245.04,0,254.92,Small
+Fault14_7,7,Ma,Fine sst with siltyclay ,Secured,9.3,4.7,8,435.8,28.77,65.04,30.47,9.08,245.04,18.04,245.04,Small
+Fault14_7,7,Hu,Fine sst with siltyclay ,Assumed,7.7,3.7,6.7,435.8,28.77,65.04,28.76,10.55,245.04,13.51,245.04,Small
+Fault14_7,7,Ka,Fine sst with siltyclay ,Proven,12,4.4,11.2,435.8,28.77,65.04,21.64,0.6,314.39,34.75,245.04,Small
+FaultS6_5,5,Gu,Fine sst with siltyclay ,Proven,10.4,6.2,8.3,467.8,41.05,337.63,36.87,3.36,337.63,20.52,7.05,Small
+FaultS6_5,5,Ma,Fine sst with siltyclay ,Secured,22.4,14.6,17,467.8,41.05,337.63,40.73,5.67,157.63,15.54,347.27,Small
+FaultS6_5,5,Hu,Fine sst with siltyclay ,Secured,13.6,8.2,10.9,467.8,41.05,337.63,37.02,2.9,157.63,3.68,337.63,Small
+FaultS6_5,5,Ka,Fine sst with siltyclay ,Assumed,14.7,10.1,10.7,467.8,41.05,337.63,43.45,7.4,337.63,0.65,337.63,Small
+FaultS6_5,5,Er,Fine sst with siltyclay ,Assumed,13.8,10.2,9.2,467.8,41.05,337.63,47.83,19.29,337.63,9.58,342.31,Small
+Faultn53_9,9,Fi,Sandstone,Secured,23.8,15.1,18.3,492.8,45.12,323.1,39.61,14.47,323.1,0.06,143.1,Small
+Faultn53_9,9,Mg,Mudstone,Assumed,36.2,27.4,23.6,492.8,45.12,323.1,49.24,22.98,323.1,15.87,323.1,Small
+FaultS18_12,12,Pr,Ryolite,Secured,114.5,79.8,82.1,555.4,46.93,332.46,43.74,25.78,332.32,10.8,141.44,Small
+Faults3_12,12,Pr,Ryolite,Secured,114.5,80.8,83.2,555.4,46.93,332.46,43.74,25.78,332.32,10.8,141.44,Small
+FaultS18_12,12,Di,Fine sst with siltyclay ,Assumed,66.7,39.2,54,555.4,46.93,332.46,35.94,27.19,332.35,8.88,142.05,Small
+FaultS18_12,12,So,Fine sst with siltyclay ,Assumed,6.2,4.5,4.2,555.4,46.93,332.46,46.58,35.95,332.46,8.59,142.52,Small
+Faults18_12,12,Di,Fine sst with siltyclay ,Secured,66.7,39.2,54,555.4,46.93,332.46,35.94,27.19,332.35,8.88,142.05,Small
+Faults18_12,12,So,Fine sst with siltyclay ,Secured,7,4.5,4.2,555.4,46.93,332.46,46.58,32.91,332.45,8.59,142.52,Small
+FaultS7_5,5,Gu,Fine sst with siltyclay ,Proven,5,2.6,4.2,561.2,34.3,157.39,31.16,2.21,337.27,1.4,337.75,Small
+FaultS7_5,5,Ma,Fine sst with siltyclay ,Secured,26.8,16.3,21.3,561.2,34.3,157.39,37.48,9.06,157.48,3.88,157.17,Small
+FaultS7_5,5,Hu,Fine sst with siltyclay ,Secured,63.5,45.1,44.6,561.2,34.3,157.39,45,2.9,157.63,10.96,157.26,Small
+FaultS7_5,5,Ka,Fine sst with siltyclay ,Assumed,61.1,33.3,51.1,561.2,34.3,157.39,31.16,7.4,337.63,1.31,157.79,Small
+FaultS7_5,5,Er,Fine sst with siltyclay ,Assumed,11.8,6.1,10.1,561.2,34.3,157.39,30.96,19.29,337.63,9.03,331.33,Small
+FaultS2_11,11,Pr,Ryolite,Assumed,58.9,5.9,58.6,685.8,1.85,141.24,5.71,44.39,321.25,16.6,321.48,Small
+FaultS2_11,11,Di,Fine sst with siltyclay ,Assumed,58.7,5.9,58.4,685.8,1.85,141.24,5.86,47,321.26,22.19,321.48,Small
+FaultS2_11,11,So,Fine sst with siltyclay ,Assumed,56.3,5.8,56,685.8,1.85,141.24,5.86,10.22,328.62,54.55,321.43,Small
+Fault55_7,7,Gu,Fine sst with siltyclay ,Assumed,19,6.8,17.8,699.6,23.65,158.14,20.85,9.23,336.47,6.03,336.44,Small
+Fault55_7,7,Ma,Fine sst with siltyclay ,Secured,78,27.6,72.9,699.6,23.65,158.14,20.75,8.75,158.5,0.1,336.9,Small
+Fault55_7,7,Hu,Fine sst with siltyclay ,Secured,23.6,8.9,21.9,699.6,23.65,158.14,22.15,6.04,158.87,0.66,158.26,Small
+FaultS2_12,12,So,Fine sst with siltyclay ,Assumed,77.8,62.7,36.9,704.7,15.92,152.46,59.49,35.95,332.46,6.23,332.44,Small
+FaultS2_12,12,Gi5,Fine sst with siltyclay ,Assumed,79,13.6,77.8,704.7,15.92,152.46,9.89,2.27,143.22,16.23,332.13,Small
+Fault22B_5,5,Ka,Fine sst with siltyclay ,Secured,12.2,2.8,6.9,720.4,14.01,144.13,22.38,84.29,324.13,4.49,144.13,Small
+Fault22B_5,5,Er,Fine sst with siltyclay ,Secured,66.6,22.9,62.5,720.4,14.01,144.13,20.13,0.8,144.13,2.37,144.13,Small
+FaultS22A_5,5,Gu,Fine sst with siltyclay ,Secured,44.7,14.1,42.4,720.8,25.28,142.3,18.43,9.49,140.96,1.22,128.33,Small
+FaultS22A_5,5,Ma,Fine sst with siltyclay ,Secured,5.2,2.3,4.7,720.8,25.28,142.3,25.68,8.36,144.13,2.14,321.69,Small
+FaultS22A_5,5,Hu,Fine sst with siltyclay ,Secured,43.2,22.9,36.6,720.8,25.28,142.3,29.2,17.25,324.13,0.92,142.7,Small
+Fault8_5,5,Gu,Fine sst with siltyclay ,Secured,66.3,15.4,64.4,723.4,25.55,155.24,8.64,2.55,336.71,30.03,336.52,Small
+Fault8_5,5,Ma,Fine sst with siltyclay ,Secured,25.4,12.3,22.2,723.4,25.55,155.24,28.62,4.43,338.17,12.52,335.65,Small
+Fault8_5,5,Hu,Fine sst with siltyclay ,Secured,12.3,7,10.1,723.4,25.55,155.24,34.74,5.17,158.17,13.11,334.32,Small
+Fault8_5,5,Ka,Fine sst with siltyclay ,Assumed,8.9,5.1,7.4,723.4,25.55,155.24,34.56,1.31,157.79,11.64,329.18,Small
+FaultS2_9,9,Pr,Ryolite,Assumed,78.4,21.7,74,968.4,15.77,155.16,8.43,35.17,335.08,4.22,335.2,Small
+Fault9_2,2,Ka,Fine sst with siltyclay ,Assumed,68.8,45.1,51.9,968.4,15.77,155.16,41.02,18.81,335.2,16.27,335.2,Small
+Fault9_2,2,Er,Fine sst with siltyclay ,Assumed,128.5,80.2,94.8,968.4,15.77,155.16,40.17,12.9,335.2,8.86,335.2,Small
+Fault9_2,2,Di,Fine sst with siltyclay ,Assumed,95.3,6.7,94.6,968.4,15.77,155.16,1,34.57,335.1,5.68,335.2,Small
+Fault9_2,2,So,Fine sst with siltyclay ,Assumed,74.4,1.1,74.4,968.4,15.77,155.16,1,32.69,335.23,38.4,334.98,Small
+FaultS2_5,5,Pr,Ryolite,Secured,16,2.7,15.8,1116.5,13.49,144.13,9.64,26.07,325.53,80.16,324.13,Medium
+FaultS2_5,5,Ka,Fine sst with siltyclay ,Secured,118.2,78.4,79.3,1116.5,13.49,144.13,23.01,19.81,324.13,2.23,324.13,Medium
+FaultS2_5,5,Er,Fine sst with siltyclay ,Secured,25.8,3.9,25.5,1116.5,13.49,144.13,8.63,43.9,324.13,7.74,324.13,Medium
+FaultS2_5,5,Di,Fine sst with siltyclay ,Secured,35.5,5.3,33.1,1116.5,13.49,144.13,9.14,25.13,326.46,40.73,324.13,Medium
+FaultS2_5,5,So,Fine sst with siltyclay ,Secured,59,9.7,58.2,1116.5,13.49,144.13,9.58,66.89,324.13,38.33,324.13,Medium
+FaultS2_5,5,Gi5,Fine sst with siltyclay ,Assumed,18.1,2.6,17.9,1116.5,13.49,144.13,8.32,24.27,326.1,80.36,324.13,Medium
+Fault8_7,7,Zo2,Ryolite,Secured,27,10,25.1,1203.4,29.33,147,21.99,55.56,328.57,21.75,328.57,Medium
+Fault8_7,7,Zo8,Ryolite,Proven,29.3,10,27.5,1203.4,29.33,147,20.52,47.94,328.57,27.08,328.57,Medium
+Fault8_7,7,Gu,Fine sst with siltyclay ,Proven,23.8,15.2,18.3,1203.4,29.33,147,39.56,3.91,320.49,12.78,329.07,Medium
+Fault8_7,7,Ma,Fine sst with siltyclay ,Secured,8.6,5,7.1,1203.4,29.33,147,35.76,9.51,272.9,11.38,329.5,Medium
+Fault8_7,7,Hu,Fine sst with siltyclay ,Assumed,20.8,10,18,1203.4,29.33,147,29.49,4.94,255.4,11.47,329.51,Medium
+Fault8_7,7,N,Claystone,Secured,4.9,5,0.5,1203.4,29.33,147,79.63,55.74,328.57,53.03,328.57,Medium
+Fault8_7,7,F,Claystone,Secured,33.9,16.1,29.9,1203.4,29.33,147,28.35,70.27,328.57,14.8,328.57,Medium
+FaultS2_7,7,Pr,Ryolite,Assumed,58.3,21.1,54.4,1240.5,17.08,160.72,21.8,44.91,341.94,1.21,159.55,Medium
+FaultS2_7,7,HU,Fine sst with siltyclay ,Assumed,52.1,46.1,24.2,1240.5,17.08,160.72,62.28,23.31,340.34,1.73,158.87,Medium
+FaultS2_7,7,Ka,Fine sst with siltyclay ,Assumed,50,39.7,30.2,1240.5,17.08,160.72,50.68,25.74,340.43,8.12,158.87,Medium
+FaultS2_7,7,Er,Fine sst with siltyclay ,Assumed,92.9,60.1,70.8,1240.5,17.08,160.72,37.07,3.56,159.73,4.81,158.87,Medium
+FaultS2_7,7,Di,Fine sst with siltyclay ,Assumed,23.5,1.1,23.5,1240.5,17.08,160.72,2.62,56.81,341.86,0.82,340.32,Medium
+FaultS2_7,7,So,Fine sst with siltyclay ,Assumed,21.6,2.6,21.4,1240.5,17.08,160.72,6.87,58.01,341.77,27.4,342,Medium
+FaultS2_7,7,Gi5,Fine sst with siltyclay ,Assumed,13.4,4.8,12.6,1240.5,17.08,160.72,20.81,62.68,341.43,64.83,341.43,Medium
+FaultS2_8,8,Pr,Ryolite,Secured,8.2,2.1,8,1246.5,10.59,153.3,14.8,72.2,333.23,1.28,153.23,Medium
+FaultS2_8,8,Hu,Fine sst with siltyclay ,Secured,2.1,1.4,1.6,1246.5,10.59,153.3,41.19,2.27,333.23,5.78,153.21,Medium
+FaultS2_8,8,Ka,Fine sst with siltyclay ,Secured,70.8,35.2,61.3,1246.5,10.59,153.3,35.91,19.66,153.23,8.92,153.22,Medium
+FaultS2_8,8,Er,Fine sst with siltyclay ,Secured,6.6,4.4,4.9,1246.5,10.59,153.3,41.82,33.65,333.23,4.7,153.22,Medium
+FaultS2_8,8,Di,Fine sst with siltyclay ,Secured,39.9,0.3,39.9,1246.5,10.59,153.3,3.49,76.29,333.23,1.47,333.23,Medium
+FaultS2_8,8,So,Fine sst with siltyclay ,Secured,49.8,11.2,48,1246.5,10.59,153.3,19.65,84.36,333.23,26.16,333.23,Medium
+Fault23_4,4,Gu,Fine sst with siltyclay ,Proven,179.4,55.5,170.6,1274,20.05,329.71,18.03,9.16,330.95,0.68,322.84,Medium
+Fault23_4,4,Ma,Fine sst with siltyclay ,Secured,98.1,27.2,94.2,1274,20.05,329.71,16.1,7.7,334.74,4.07,324.07,Medium
+Fault23_4,4,Hu,Fine sst with siltyclay ,Secured,175.9,58.5,165.9,1274,20.05,329.71,19.44,13.65,336.22,1.46,324.84,Medium
+Fault23_4,4,Ka,Fine sst with siltyclay ,Proven,31.5,15.1,27.6,1274,20.05,329.71,31.08,25.85,336.63,6.92,333.23,Medium
+Faults10_6,6,Zo2,Ryolite,Proven,36.8,10.1,35.3,1299.6,19.83,155.02,15.08,0.85,338.74,3.57,328.53,Medium
+Faults10_6,6,Zo8,Ryolite,Proven,29.9,9.8,28.3,1299.6,19.83,155.02,18.83,0.09,159.77,3.82,330.63,Medium
+Faults10_6,6,Gu,Fine sst with siltyclay ,Secured,12.4,4.6,11.5,1299.6,19.83,155.02,23.05,1.66,159.07,2.75,338.7,Medium
+Faults10_6,6,Ma,Fine sst with siltyclay ,Secured,9.2,3.1,8.4,1299.6,19.83,155.02,20.16,2,339.39,2.32,339.98,Medium
+Fault8_8,8,Zo2,Ryolite,Proven,331.3,144.2,298.2,1299.8,24.86,132.69,25.8,5.18,301.47,9.98,306.27,Medium
+Fault8_8,8,Zo8,Ryolite,Secured,815.1,797.9,712.8,1299.8,24.86,132.69,27.92,3.91,131.47,4,131.49,Medium
+Fault8_8,8,Gu,Fine sst with siltyclay ,Proven,158.2,49.2,150.1,1299.8,24.86,132.69,21.29,31.55,315.66,11.46,315.68,Medium
+Fault8_8,8,Ma,Fine sst with siltyclay ,Proven,129.3,49.8,119.1,1299.8,24.86,132.69,30.28,38.35,315.66,10.84,321.96,Medium
+Fault8_8,8,Hu,Fine sst with siltyclay ,Secured,27.6,12.6,24.5,1299.8,24.86,132.69,27.24,34.68,315.35,11.19,321.85,Medium
+FaultS7_7,7,Zo2,Ryolite,Proven,20.3,9.3,18,1347.4,31.72,149.81,27.17,1.38,154.21,1.3,310.6,Medium
+FaultS7_7,7,Zo8,Ryolite,Proven,59.9,26.9,53.5,1347.4,31.72,149.81,27.28,1.97,334.21,10.25,154.21,Medium
+FaultS7_7,7,La,Fine sst with siltyclay ,Proven,43.6,24.9,35.8,1347.4,31.72,149.81,34.85,20.08,334.21,16.61,334.21,Medium
+FaultS7_7,7,Gu,Fine sst with siltyclay ,Proven,24.3,11.6,21.3,1347.4,31.72,149.81,28.55,21.59,334.21,22.93,334.21,Medium
+FaultS7_7,7,Ma,Fine sst with siltyclay ,Proven,17.9,4.3,17.4,1347.4,31.72,149.81,13.05,0.49,142.74,28.05,334.21,Medium
+FaultS7_7,7,Hu,Fine sst with siltyclay ,Secured,64.5,10.7,63.6,1347.4,31.72,149.81,9.57,2.51,333.27,16.2,334.21,Medium
+FaultS7_7,7,Ka,Fine sst with siltyclay ,Secured,25.4,16,19.7,1347.4,31.72,149.81,39.09,25.38,156,1.72,135.21,Medium
+FaultS7_7,7,Er,Fine sst with siltyclay ,Assumed,40.6,34.9,20.6,1347.4,31.72,149.81,59.97,4.9,336.2,31.02,141.79,Medium
+Fault8_12,8,Zo2,Ryolite,Secured,72.1,45.5,55.9,1424.9,40.33,157.36,39.17,28.81,60.09,26.83,337.76,Medium
+Fault8_12,12,Zo8,Ryolite,Assumed,88.8,47.4,74.9,1424.9,40.33,157.36,30.74,23.51,329.49,23.29,335.96,Medium
+Fault8_12,12,Gu,Fine sst with siltyclay ,Assumed,117.9,50.2,106.7,1424.9,40.33,157.36,25.2,58.75,329.49,19.53,333.56,Medium
+Fault8_12,12,Ma,Fine sst with siltyclay ,Assumed,151.7,62,138.3,1424.9,40.33,157.36,19.77,17.83,329.49,18.45,333.1,Medium
+Fault8_12,12,Hu,Fine sst with siltyclay ,Assumed,146,51.6,136.3,1424.9,40.33,157.36,18.1,18.84,329.49,17.95,332.81,Medium
+Fault8_12,12,Ka,Fine sst with siltyclay ,Assumed,154.4,48,146.7,1424.9,40.33,157.36,18.1,15.67,329.49,15.01,331.93,Medium
+Fault8_12,12,Er,Fine sst with siltyclay ,Assumed,99.6,32.8,94,1424.9,26.83,337.76,19.65,15.59,329.49,15.25,331.87,Medium
+Fault8_12,12,T,Claystone,Secured,23.1,17.9,15.6,1424.9,26.83,337.76,48.81,73.93,327.57,43.01,327.57,Medium
+Fault8_12,12,Q,Claystone,Secured,47.5,35.4,31.6,1424.9,26.83,337.76,47.49,70.67,327.57,26.43,327.57,Medium
+Fault8_12,12,F,Claystone,Secured,92.3,65.4,65.1,1424.9,26.83,337.76,45,52.69,33.76,28.76,332.74,Medium
+FaultS2_6,6,Pr,Ryolite,Assumed,25,9.6,22.9,1429.8,10.35,145.81,25.82,42.93,326.93,8.93,326.93,Medium
+FaultS2_6,6,Hu,Fine sst with siltyclay ,Assumed,9.6,6.7,6.9,1429.8,10.35,145.81,45.57,0.11,326.93,15.33,326.93,Medium
+FaultS2_6,6,Ka,Fine sst with siltyclay ,Assumed,16.9,10.8,13,1429.8,10.35,145.81,39.72,10.8,326.93,25.74,326.93,Medium
+FaultS2_6,6,Er,Fine sst with siltyclay ,Assumed,21.6,11.7,18.2,1429.8,10.35,145.81,32.69,4.88,146.93,46.94,326.93,Medium
+FaultS2_6,6,Di,Fine sst with siltyclay ,Assumed,72.4,23.6,67.6,1429.8,10.35,145.81,1.79,57.18,326.93,2.52,326.93,Medium
+FaultS2_6,6,So,Fine sst with siltyclay ,Assumed,69.9,16.7,67.9,1429.8,10.35,145.81,14.29,65.3,326.93,23.3,326.93,Medium
+FaultS2_6,6,Gi5,Fine sst with siltyclay ,Assumed,41,7.5,39.6,1429.8,10.35,145.81,10.77,30.63,316.51,63.07,326.93,Medium
+FaultS3_12,12,Pr,Ryolite,Secured,298.7,247.5,157.2,1433.2,56.79,146,35.54,5.62,325.62,10.8,141.44,Medium
+Faults3_12,12,Pr,Ryolite,Secured,299.5,247.5,157.2,1433.2,56.79,146,66.86,5.62,325.62,3.06,325.6,Medium
+Faults3_12,12,Fi,Sandstone,Assumed,108.2,65.5,65.5,1433.2,56.79,146,45,0.42,324.73,7.05,327.3,Medium
+FaultS3_12,12,Fi,Sandstone,Assumed,108.2,65.5,65.5,1433.2,56.79,146,45,0.42,324.73,7.05,327.3,Medium
+Faults3_12,12,Ka,Fine sst with siltyclay ,Proven,112.3,105.4,38.7,1433.2,56.79,146,69.82,32.7,145.62,37.43,143.14,Medium
+Faults3_12,12,Er,Fine sst with siltyclay ,Proven,241.5,211,117.5,1433.2,56.79,146,60.89,28.45,145.62,8.03,326.07,Medium
+Faults3_12,12,Di,Fine sst with siltyclay ,Secured,196.5,147.9,122,1433.2,56.79,146,42.39,18.93,326.66,2.93,325.29,Medium
+Faults3_12,12,Ka,Fine sst with siltyclay ,Proven,112.3,105.4,38.7,1433.2,56.79,146,71.23,32.7,145.62,37.43,143.14,Medium
+Faults3_12,12,Er,Fine sst with siltyclay ,Proven,241.6,211,117.5,1433.2,56.79,146,62.65,28.45,145.62,8.03,326.07,Medium
+Faults3_12,12,Di,Fine sst with siltyclay ,Secured,196.5,147.9,122,1433.2,56.79,146,42.39,18.93,326.66,8.88,142.05,Medium
+Faults3_12,12,So,Fine sst with siltyclay ,Secured,129.8,103.5,76.5,1433.2,56.79,146,58.42,19.81,326.88,8.59,142.52,Medium
+Faults3_12,12,Gi5,Fine sst with siltyclay ,Assumed,129.3,103.3,77.7,1433.2,56.79,146,53.03,0.89,323.89,2.27,143.22,Medium
+Faults3_12,12,Gi5,Fine sst with siltyclay ,Assumed,131.5,103.3,77.7,1433.2,56.79,146,49.4,0.89,323.89,6.56,327.31,Medium
+Faults3_12,12,So,Fine sst with siltyclay ,Secured,135.8,103.5,76.5,1433.2,56.79,146,58.42,19.81,326.88,1.75,324.79,Medium
+Fault8_11,11,Zo8,Ryolite,Assumed,383.5,204.8,323.5,1472.4,36.87,155.16,30.78,60.19,329.53,19.33,333.08,Medium
+Fault8_11,11,Zo2,Ryolite,Secured,347.5,204.2,278.1,1472.4,36.87,155.16,32.12,60.77,329.53,21.86,330.33,Medium
+Fault8_11,11,Ka,Fine sst with siltyclay ,Assumed,52.5,17.1,49.7,1472.4,36.87,155.16,19.7,35.81,329.88,15.06,332.28,Medium
+Fault8_11,11,Er,Fine sst with siltyclay ,Assumed,37.7,11.9,35.8,1472.4,36.87,155.16,17.89,0.13,146.59,15.55,332.21,Medium
+Fault8_11,11,Gu,Fine sst with siltyclay ,Assumed,273.9,133.5,239,1472.4,36.87,155.16,27.33,19.49,329.88,15.03,333.32,Medium
+Fault8_11,11,Ma,Fine sst with siltyclay ,Assumed,214.5,96.2,191.7,1472.4,36.87,155.16,26.88,29.51,329.88,14.79,332.77,Medium
+Fault8_11,11,Hu,Fine sst with siltyclay ,Assumed,107.1,46.5,96.4,1472.4,36.87,155.16,26.25,40.7,329.88,14.77,332.52,Medium
+Fault8_11,11,Q,Claystone,Secured,330.3,387,227,1472.4,36.87,155.16,44.59,43.5,339.53,22.34,330.14,Medium
+Fault8_11,11,F,Claystone,Secured,333.7,246,214,1472.4,36.87,155.16,33.16,33.5,329.53,28.99,329.65,Medium
+Fault8_6,6,Zo2,Ryolite,Secured,17.7,13.5,11,1485.2,27.23,154.28,17.4,4.31,328.12,79.01,328.12,Medium
+Fault8_6,8,Zo8,Ryolite,Secured,47.6,19.3,43.5,1485.2,27.23,154.28,23.33,3.82,330.63,40.94,328.12,Medium
+Fault8_6,6,Gu,Fine sst with siltyclay ,Secured,129.1,47.7,120,1485.2,27.23,154.28,22.09,2.75,338.7,4.7,330.93,Medium
+Fault8_6,6,Ma,Fine sst with siltyclay ,Secured,76.4,28.7,70.8,1485.2,27.23,154.28,21.09,2.32,339.98,2.5,333.23,Medium
+Fault8_6,6,Hu,Fine sst with siltyclay ,Secured,37,12.7,34.7,1485.2,27.23,154.28,20.11,1.78,340.66,18.54,340.14,Medium
+Fault8_6,6,Ka,Fine sst with siltyclay ,Secured,26.5,11.8,23.8,1485.2,27.23,154.28,26.1,4.12,339.92,5,337.75,Medium
+Fault8_6,6,Kr,Fine sst with siltyclay ,Assumed,26.9,11.1,24.5,1485.2,27.23,154.28,23.86,2.8,159.93,4.98,338.45,Medium
+FaultS2_10,10,Pr,Ryolite,Secured,335.9,223.7,249.4,1503.3,11.44,150.69,37.37,22.76,326.64,7.99,156,Medium
+FaultS2_10,10,Ka,Fine sst with siltyclay ,Proven,20.5,0.6,20.5,1503.3,11.44,150.69,1.59,13.18,339.77,18.11,342.98,Medium
+FaultS2_10,10,Er,Fine sst with siltyclay ,Proven,266.8,171.9,203.8,1503.3,11.44,150.69,46.87,23.69,327.81,0.65,340.4,Medium
+FaultS2_10,10,Di,Fine sst with siltyclay ,Secured,222.4,128.9,172.4,1503.3,11.44,150.69,6.01,25.96,326.23,10.04,152.05,Medium
+FaultS2_10,10,So,Fine sst with siltyclay ,Secured,247.8,20,241.5,1503.3,11.44,150.69,2.26,25.41,326.92,18.83,326.19,Medium
+FaultS2_10,10,Gi5,Fine sst with siltyclay ,Secured,307.6,25.3,299.5,1503.3,11.44,150.69,1.99,16.64,327.97,40.6,326.14,Medium
+Faults23_6,6,Zo8,Ryolite,Proven,250.1,83.7,235.2,1579.6,29.29,343.14,18.14,10.43,346.43,8.42,333.35,Medium
+Faults23_6,6,La,Fine sst with siltyclay ,Proven,135.9,52.1,94.8,1579.6,29.29,343.14,26.48,7.68,347.78,14.48,356.88,Medium
+Faults23_6,6,Gu,Fine sst with siltyclay ,Secured,79.1,37.7,69.5,1579.6,29.29,343.14,28.47,19.63,335.25,6.35,335.25,Medium
+Faults23_6,6,Ma,Fine sst with siltyclay ,Secured,46.8,24.4,40,1579.6,29.29,343.14,31.35,7.45,335.25,9.56,335.25,Medium
+Faults23_6,6,HU,Fine sst with siltyclay ,Assumed,108.5,62.6,88.7,1579.6,29.29,343.14,35.95,22.8,337.75,11.34,335.25,Medium
+Fault16_7,7,Zo2,Ryolite,Proven,46.1,11,44.8,1605.5,27.46,129.15,13.79,5.75,329.52,1.73,328.57,Medium
+Fault16_7,7,Zo8,Ryolite,Proven,57.1,15.6,54.9,1605.5,27.46,129.15,15.8,8.73,299.75,4.77,329.03,Medium
+Fault16_7,7,Gu,Fine sst with siltyclay ,Secured,8.3,4.3,7.1,1605.5,27.46,129.15,31.24,3.29,245.04,8.4,245.04,Medium
+Fault16_7,7,Ma,Fine sst with siltyclay ,Proven,14.9,5.8,13.3,1605.5,27.46,129.15,22.32,2.63,305.84,9.08,245.04,Medium
+Fault16_7,7,Hu,Fine sst with siltyclay ,Secured,20.1,6.8,18.8,1605.5,27.46,129.15,19.98,8.06,245.04,10.55,245.04,Medium
+Fault16_7,7,Er,Fine sst with siltyclay ,Assumed,15.9,7.8,13.9,1605.5,27.46,129.15,29.05,6.08,154.51,2.4,334.08,Medium
+Fault16_7,7,Ka,Fine sst with siltyclay ,Secured,11.1,5.2,9.7,1605.5,27.46,129.15,28.71,5.98,334.08,4.12,154.08,Medium
+Fault_s10_7,7,Zo2,Ryolite,Proven,108,81.9,67.9,1780.5,30.69,130.08,38,4.16,328.57,55.56,328.57,Medium
+Fault_s10_7,7,Zo8,Ryolite,Proven,113.6,27.5,110.1,1780.5,30.69,130.08,13.51,39.15,328.57,47.94,328.57,Medium
+Fault_s10_7,7,Pr,Ryolite,Assumed,36.1,19.7,30.3,1780.5,30.69,130.08,32.99,1.05,334.89,12.93,322.14,Medium
+Fault_s10_7,7,Ka,Fine sst with siltyclay ,Secured,43.7,20.3,38.7,1780.5,30.69,130.08,27.66,34.75,245.04,12.55,322.64,Medium
+Fault_s10_7,7,Gu,Fine sst with siltyclay ,Secured,106.2,25.2,103.2,1780.5,30.69,130.08,14.33,54.1,329.97,3.91,320.49,Medium
+Fault_s10_7,7,Ma,Fine sst with siltyclay ,Secured,96.2,25.7,92.7,1780.5,30.69,130.08,15.6,15.28,245.04,9.51,272.9,Medium
+Fault_s10_7,7,Hu,Fine sst with siltyclay ,Assumed,112.9,44.3,103.5,1780.5,30.69,130.08,24.9,13.51,245.04,4.94,255.4,Medium
+Fault_s10_7,7,Er,Fine sst with siltyclay ,Secured,70.7,34,62,1780.5,30.69,130.08,28.76,2.4,334.08,12.32,321.78,Medium
+Fault_s10_7,7,Di,Fine sst with siltyclay ,Assumed,22.6,11.6,19.4,1780.5,30.69,130.08,30.91,0.57,330.58,12.82,322.45,Medium
+Fault8_10,8,Zo2,Ryolite,Secured,201.2,125.5,156.4,1905.7,34.81,155.45,32.67,2.43,173.49,30.83,334.04,Medium
+Fault8_10,10,Zo8,Ryolite,Secured,211.7,113.1,179,1905.7,34.81,155.45,33.74,25.8,334.04,33.71,348.29,Medium
+Fault8_10,10,Pr,Ryolite,Assumed,38.1,10.7,36.8,1905.7,34.81,155.45,15.47,1.28,327.6,11.72,335.21,Medium
+Fault8_10,10,HU,Fine sst with siltyclay ,Assumed,228,88.8,209.9,1905.7,34.81,155.45,22.87,5.72,320.21,12.83,338.37,Medium
+Fault8_10,10,Ka,Fine sst with siltyclay ,Assumed,259.7,91.2,243,1905.7,34.81,155.45,18.64,14.7,319.49,10.93,336.57,Medium
+Fault8_10,10,Er,Fine sst with siltyclay ,Assumed,162.2,51.2,153.9,1905.7,34.81,155.45,17.88,24.18,319.33,11.19,336.01,Medium
+Fault8_10,10,Gu,Fine sst with siltyclay ,Assumed,176.3,83.7,155.1,1905.7,34.81,155.45,27.59,0.89,323.27,13.98,340.04,Medium
+Fault8_10,10,Ma,Fine sst with siltyclay ,Assumed,208.5,89.2,188.2,1905.7,34.81,155.45,22.53,3.53,320.39,13.16,339.02,Medium
+Fault8_10,10,F,Claystone,Secured,136.8,113.3,76.6,1905.7,34.81,155.45,54.59,22.03,334.04,37.38,334.04,Medium
+FaultS23_5,5,Zo8,Ryolite,Proven,61,26.2,55.1,1997.8,26.78,336.51,25.64,7.71,332.14,3.82,326.77,Medium
+FaultS23_5,5,La,Fine sst with siltyclay ,Proven,150.3,64,136.1,1997.8,26.78,336.51,25.41,9.05,339.24,5.82,326.77,Medium
+FaultS23_5,5,Gu,Fine sst with siltyclay ,Proven,230.9,70.5,219.7,1997.8,26.78,336.51,17.43,7.93,332.76,5.71,326.7,Medium
+FaultS23_5,5,Ma,Fine sst with siltyclay ,Secured,188.5,58.4,179.2,1997.8,26.78,336.51,18.39,15.54,347.27,2.14,321.69,Medium
+FaultS23_5,5,Hu,Fine sst with siltyclay ,Secured,85.6,30.2,80.1,1997.8,26.78,336.51,20.21,18.32,356.29,0.92,142.7,Medium
+FaultS23_5,5,Ka,Fine sst with siltyclay ,Secured,42.7,27.5,32.5,1997.8,26.78,336.51,43.42,0.65,337.63,27.07,347.79,Medium
+Fault8_9,8,Zo2,Ryolite,Assumed,206.3,126.3,162.8,2034.2,36.24,154.55,34.91,4.15,183.14,37.92,29.61,Medium
+Fault8_9,8,Zo8,Ryolite,Assumed,193.9,112,157,2034.2,36.24,154.55,35.31,4.21,167.34,38.83,22.7,Large
+Fault8_9,9,Pr,Ryolite,Assumed,17,6.2,15.8,2034.2,36.24,154.55,26.52,2.19,328.67,12.42,331.68,Large
+Fault8_9,9,Gu,Fine sst with siltyclay ,Assumed,228.6,96.9,206.6,2034.2,36.24,154.55,24.79,2,140.56,17.03,340.52,Large
+Fault8_9,9,Ma,Fine sst with siltyclay ,Assumed,240.6,90.4,222.6,2034.2,36.24,154.55,19.85,0.54,320.41,14.79,337.71,Large
+Fault8_9,9,Hu,Fine sst with siltyclay ,Assumed,324.4,110.9,304.8,2034.2,36.24,154.55,19.59,1.23,320.33,13.05,335.73,Large
+Fault8_9,9,Ka,Fine sst with siltyclay ,Assumed,120.9,38.9,114.5,2034.2,36.24,154.55,19.5,13.34,320.32,11.9,332.61,Large
+Fault8_9,9,Er,Fine sst with siltyclay ,Assumed,81.4,27.6,76.6,2034.2,36.24,154.55,19.37,2.34,326.28,12.12,332.23,Large
+Fault8_9,9,T,Claystone,Secured,7.5,6.3,4.1,2034.2,36.24,154.55,57.2,27.33,329.63,19.95,328.89,Large
+Fault8_9,9,Q,Claystone,Secured,17.1,14.1,9.7,2034.2,36.24,154.55,55.45,23.67,329.63,18.77,328.86,Large
+Fault8_9,9,F,Claystone,Secured,89.1,60.6,65.3,2034.2,36.24,154.55,42.36,3.82,21.21,40.19,329.63,Large
+Fault9_1,1,Zo2,Ryolite,Proven,107.5,59.6,88,2101.6,32.21,335.93,33.63,5.89,329,19.6,347.72,Large
+Fault9_1,1,Zo8,Ryolite,Proven,94.5,50.9,76.9,2101.6,32.21,335.93,33.01,8.65,348.68,7.37,332.02,Large
+Fault9_1,1,HU,Fine sst with siltyclay ,Secured,26.8,13.9,22.9,2101.6,32.21,335.93,31.23,12.68,339.88,2.24,338.42,Large
+Fault9_1,1,Er,Fine sst with siltyclay ,Assumed,75.4,58.2,47.8,2101.6,32.21,335.93,39.4,12.23,342.64,16.55,328.28,Large
+Fault9_1,1,Gu,Fine sst with siltyclay ,Secured,46.7,19.5,42.5,2101.6,32.21,335.93,24.63,11.71,338.28,5.68,327.73,Large
+Fault9_1,1,Ma,Fine sst with siltyclay ,Secured,48.4,22.8,42.9,2101.6,32.21,335.93,28.01,8.81,328.15,9.57,327.92,Large
+Fault9_1,1,HU,Fine sst with siltyclay ,Secured,26.8,13.9,22.9,2101.6,32.21,335.93,31.23,12.68,339.88,2.24,338.42,Large
+Fault9_1,1,Ka,Fine sst with siltyclay ,Secured,49.2,27.1,41.8,2101.6,32.21,335.93,29.1,12.99,341.22,7.65,328.28,Large
+Fault9_1,1,F,Claystone,Proven,94,46.8,81.5,2101.6,32.21,335.93,29.88,9.91,332.85,32.54,15.06,Large
+FaultS1_3,3,Fi,Sandstone,Secured,935,273.3,886.2,2539.3,1.66,325.04,14.04,2,325.23,18.28,323.47,Large
+FaultS1_3,3,Ge1,Mudstone,Proven,935,273.3,886,2539.3,1.66,325.04,14.04,2,325.23,18.28,323.47,Large
+FaultS1_3,3,Mg,Mudstone,Secured,812.5,45.1,812.5,2539.3,1.66,325.04,41.13,15.11,323.45,46.85,322.03,Large
+FaultS1_3,3,Sb,Mudstone,Assumed,674.2,287.3,560.5,2539.3,1.66,325.04,39.85,23.08,322.03,39.06,322.7,Large
+Faults1_1,1,Fi,Sandstone,Assumed,675.9,201.8,644.8,2756.8,1.8,157.75,15.84,4.92,337.79,14.01,324.63,Large
+Faults1_1,1,Kr-2,Mudstone,Secured,627.1,123.1,600.2,2756.8,1.8,157.75,41.47,12.69,338.37,9.26,338.47,Large
+Faults1_1,1,Mg,Mudstone,Secured,612.8,69.3,612.8,2756.8,1.8,157.75,42.52,14.44,338.37,13.59,325.88,Large
+FaultS4_9,9,Gi5,Ryolite,Secured,1154.3,808.3,978.4,2938.9,4.77,323.21,29.89,30.41,323.1,0.06,143.1,Large
+FaultS4_9,9,Fi,Fine sst with siltyclay ,Secured,968,186.3,901,2938.9,4.77,323.21,44.02,57.55,323.1,24.7,143.1,Large
+FaultS4_9,9,Mg,Mudstone,Proven,1052,86.4,856.1,2938.9,4.77,323.21,18.8,6.45,323.1,50.12,323.1,Large
+FaultS4_9,9,Sb,Mudstone,Secured,939,309.1,829.5,2938.9,4.77,323.21,19.25,32.68,323.1,42.43,323.22,Large
+FaultS4_9,9,Hf,Mudstone,Secured,646.2,215.2,609.3,2938.9,4.77,323.21,19.13,33,323.43,11.8,323.07,Large
+FaultS4_9,9,Wb,Mudstone,Assumed,678.7,232.2,637.7,2938.9,4.77,323.21,20.55,34.86,323.48,5.1,322.96,Large
+FaultS1_5,5,Pr,Ryolite,Assumed,532.2,96.1,496.7,3501.4,6.47,147.88,11.97,5.18,324.13,6.57,330.39,Large
+FaultS1_5,5,Fi,Sandstone,Assumed,392.1,22,391.4,3501.4,6.47,147.88,3.32,64.46,330.67,16.27,329.03,Large
+FaultS1_5,5,La,Fine sst with siltyclay ,Assumed,98.4,42.4,88.8,3501.4,6.47,147.88,26.58,41.26,323.3,12.19,323.9,Large
+FaultS1_5,5,Di,Fine sst with siltyclay ,Assumed,528.2,35.6,503.1,3501.4,6.47,147.88,10.96,40.73,324.13,7.08,330.32,Large
+FaultS1_5,5,So,Fine sst with siltyclay ,Assumed,398,57.6,391.4,3501.4,6.47,147.88,10.71,64.78,324.13,7.85,330.28,Large
+FaultS1_5,5,Gi5,Fine sst with siltyclay ,Assumed,269.8,38.4,265.7,3501.4,6.47,147.88,1,80.36,324.13,8.83,330.85,Large
+FaultS1_5,5,Gu,Fine sst with siltyclay ,Secured,115.6,68.3,93.3,3501.4,6.47,147.88,36.96,11.53,324.13,12.19,323.9,Large
+FaultS1_5,5,Ma,Fine sst with siltyclay ,Secured,210.9,134.3,162.6,3501.4,6.47,147.88,36.95,5.5,324.13,8.36,144.13,Large
+FaultS1_5,5,Hu,Fine sst with siltyclay ,Secured,164.6,91.3,135,3501.4,6.47,147.88,20.92,6.6,324.13,17.25,324.13,Large
+FaultS1_5,5,Ka,Fine sst with siltyclay ,Secured,416.2,155.3,385.8,3501.4,6.47,147.88,23.77,2.23,324.13,3.9,144.13,Large
+FaultS1_5,5,Er,Fine sst with siltyclay ,Secured,374.2,155.1,339.9,3501.4,6.47,147.88,29.85,7.74,324.13,3.91,144.13,Large
+FaultS1_5,5,Mg,Mudstone,Assumed,728.1,4.4,718.1,3501.4,6.47,147.88,19.8,27.77,332.86,14.81,329.06,Large
+FaultS1_5,5,Sb,Mudstone,Assumed,523.8,132.4,480.1,3501.4,6.47,147.88,41.19,36.2,333.81,15,328.83,Large
+FaultS1_2,2,Fi,Sandstone,Secured,535.8,178,505,3551.6,8.5,149.6,15.19,9.92,334.46,21.26,334.33,Large
+FaultS1_2,2,Ge1,Mudstone,Assumed,719.4,137.7,687.4,3551.6,8.5,149.6,26.57,8.93,334.51,21.26,334.33,Large
+FaultS1_2,2,Mg,Mudstone,Assumed,603,72.4,577.6,3551.6,8.5,149.6,26.57,13.95,333.65,14.79,331.07,Large
+FaultS1_2,2,Sb,Mudstone,Secured,490.2,255.2,416.2,3551.6,8.5,149.6,17.61,39.91,322.15,57.54,322.24,Large
+FaultS1_12,12,Pr,Ryolite,Assumed,52.1,9.7,51.2,4085.1,21.71,147.16,10.74,3.06,325.6,0.55,326.73,Large
+FaultS1_12,12,Fi,Sandstone,Assumed,302,65,294.9,4085.1,21.71,147.16,12.95,6.27,142.23,15.62,332.19,Large
+FaultS1_12,12,Gu,Fine sst with siltyclay ,Proven,30.3,8,29.2,4085.1,21.71,147.16,15.38,8.71,331.97,8.3,332.07,Large
+FaultS1_12,12,Ma,Fine sst with siltyclay ,Secured,16.4,3.7,13.6,4085.1,21.71,147.16,15.38,12.62,331.97,13.12,332.01,Large
+FaultS1_12,12,Hu,Fine sst with siltyclay ,Assumed,25.3,6.4,26.5,4085.1,21.71,147.16,13.59,16.67,326.74,12.3,332.01,Large
+FaultS1_12,12,Ka,Fine sst with siltyclay ,Assumed,60.6,14.2,58.9,4085.1,21.71,147.16,13.59,12.1,326.37,11.32,332.02,Large
+FaultS1_12,12,Er,Fine sst with siltyclay ,Assumed,48.5,11.4,47.2,4085.1,21.71,147.16,13.59,8.03,326.07,0.1,326.63,Large
+FaultS1_12,12,Di,Fine sst with siltyclay ,Assumed,135.4,9.4,135.5,4085.1,21.71,147.16,3.99,2.93,325.29,12.62,332,Large
+FaultS1_12,12,So,Fine sst with siltyclay ,Assumed,71.2,5.3,71,4085.1,21.71,147.16,4.24,1.75,324.79,13.74,332.02,Large
+FaultS1_12,12,Gi5,Fine sst with siltyclay ,Assumed,177.9,89.8,153.6,4085.1,21.71,147.16,30.31,0.73,323.27,14.66,332.14,Large
+FaultS1_12,12,Mg,Mudstone,Assumed,250.8,53.7,231.6,4085.1,21.71,147.16,26.18,7.59,140.11,17.35,331.83,Large
+FaultS1_12,12,Sb,Mudstone,Assumed,283.6,246,141.2,4085.1,21.71,147.16,60.13,11.93,140.72,13.61,329.6,Large
+FaultS1_12,12,Hf,Mudstone,Assumed,284.7,248.4,139.1,4085.1,21.71,147.16,60.74,3.14,323.58,13.81,321.83,Large
+FaultS1_12,12,Wb,Mudstone,Assumed,249.8,217.9,122.1,4085.1,21.71,147.16,60.74,4.12,324.85,6.44,320.03,Large
+FaultS1_11,11,Pr,Ryolite,Assumed,105.6,2.6,105.5,4367.2,14.88,146.11,1.43,16.6,321.48,6.08,328.33,Large
+FaultS1_11,11,Fi,Sandstone,Assumed,179.8,0.5,179.8,4367.2,14.88,146.11,1,1.76,328.34,44.96,328.26,Large
+FaultS1_11,11,Di,Fine sst with siltyclay ,Assumed,222.7,108.5,175.7,4367.2,14.88,146.11,48.5,22.19,321.48,10.45,321.45,Large
+FaultS1_11,11,So,Fine sst with siltyclay ,Assumed,204.9,117.3,168,4367.2,14.88,146.11,34.93,56.21,321.42,18.28,321.45,Large
+FaultS1_11,11,Gi5,Fine sst with siltyclay ,Assumed,235.8,3.9,235.8,4367.2,14.88,146.11,1,5.05,330.46,44.52,324.4,Large
+FaultS1_11,11,Hu,Fine sst with siltyclay ,Assumed,35,2.5,34.9,4367.2,14.88,146.11,4.12,24.65,321.45,8.35,141.88,Large
+FaultS1_11,11,Ka,Fine sst with siltyclay ,Assumed,105.6,2.6,105.5,4367.2,14.88,146.11,1.43,24.82,321.45,4.2,146.62,Large
+FaultS1_11,11,Er,Fine sst with siltyclay ,Assumed,49.7,1.2,49.7,4367.2,14.88,146.11,1.43,29.38,321.35,0.13,146.59,Large
+FaultS1_11,11,Mg,Mudstone,Assumed,245.1,80.1,231.6,4367.2,14.88,146.11,19.07,24.44,148.15,32.33,329.63,Large
+FaultS1_11,11,Sb,Mudstone,Assumed,262.2,109.6,237.9,4367.2,14.88,146.11,27.76,24.44,148.15,32.33,329.63,Large
+FaultS1_11,11,Hf,Mudstone,Assumed,191.8,149.5,120,4367.2,14.88,146.11,51.25,0.33,147.16,21.87,330.34,Large
+FaultS1_11,11,Wb,Mudstone,Assumed,126.7,100,79.3,4367.2,14.88,146.11,51.72,3,327.09,15.23,330.74,Large
+FaultS1_9,9,Pr,Ryolite,Assumed,304.5,33.3,290.2,4406,8.96,156.97,31.37,4.22,335.2,2.19,328.67,Large
+FaultS1_9,9,Fi,Sandstone,Secured,437.9,20.9,437.9,4406,8.96,156.97,2.89,23.51,339.43,8.7,331.21,Large
+FaultS1_9,9,Hu,Fine sst with siltyclay ,Assumed,15.1,3.6,14.7,4406,8.96,156.97,13.8,22.87,335.2,22.56,155.2,Large
+FaultS1_9,9,Ka,Fine sst with siltyclay ,Assumed,28.8,6.2,28.1,4406,8.96,156.97,12.47,16.27,335.2,1.69,155.2,Large
+FaultS1_9,9,Er,Fine sst with siltyclay ,Assumed,76.4,13.8,75.1,4406,8.96,156.97,7.5,8.86,335.2,0.56,335.2,Large
+FaultS1_9,9,Di,Fine sst with siltyclay ,Assumed,399.7,197.7,322.8,4406,8.96,156.97,43.96,5.68,335.2,5.48,330.06,Large
+FaultS1_9,9,So,Fine sst with siltyclay ,Assumed,455,87.5,373.6,4406,8.96,156.97,32.06,38.4,334.98,6.64,330.24,Large
+FaultS1_9,9,Gi5,Fine sst with siltyclay ,Assumed,449,19.7,448.6,4406,8.96,156.97,2.08,30.82,336.93,8.86,332.72,Large
+FaultS1_9,9,Mg,Mudstone,Assumed,306.1,114,300.1,4406,8.96,156.97,2.84,33.48,336.4,42.5,347.11,Large
+FaultS1_9,9,Sb,Mudstone,Assumed,370.9,159.9,330.2,4406,8.96,156.97,30.29,47.06,338.41,44.01,345.42,Large
+FaultS1_9,9,Hf,Mudstone,Assumed,383.3,37.9,380.7,4406,8.96,156.97,10.15,6.93,143.21,30.5,334.15,Large
+FaultS1_9,9,Wb,Mudstone,Assumed,300.5,137.9,230.2,4406,8.96,156.97,68.34,27.31,332.45,5.1,322.96,Large
+FaultS1_10,10,Pr,Ryolite,Assumed,90.8,6.7,90.5,4478.9,14.53,151.24,1.71,8,156,1.28,327.6,Large
+FaultS1_10,10,Fi,Sandstone,Assumed,403.8,85.7,389.9,4478.9,14.53,151.24,5.88,3.54,328.37,39.85,326.25,Large
+FaultS1_10,10,Ka,Fine sst with siltyclay ,Secured,41.1,5.2,40.7,4478.9,14.53,151.24,7.32,18.11,342.98,2.12,146.03,Large
+FaultS1_10,10,Er,Fine sst with siltyclay ,Assumed,60.1,7.3,59.7,4478.9,14.53,151.24,6.98,0.65,340.4,2.23,146.98,Large
+FaultS1_10,10,Di,Fine sst with siltyclay ,Assumed,155,79.3,132.3,4478.9,14.53,151.24,34.08,10.04,152.05,9,342.99,Large
+FaultS1_10,10,So,Fine sst with siltyclay ,Assumed,252.1,42.8,223.3,4478.9,14.53,151.24,25.02,18.83,326.19,4.34,339.16,Large
+FaultS1_10,10,Gi5,Fine sst with siltyclay ,Assumed,300.5,25.3,299.5,4478.9,14.53,151.24,4.99,16.64,327.97,40.6,326.14,Large
+FaultS1_10,10,Mg,Mudstone,Assumed,422.9,40.6,419.2,4478.9,14.53,151.24,15.82,10.21,144.91,36.04,327.1,Large
+FaultS1_10,10,Sb,Mudstone,Assumed,368.6,99.1,355,4478.9,14.53,151.24,15.64,13,144.41,30.9,327.54,Large
+FaultS1_10,10,Hf,Mudstone,Assumed,306.9,98.8,287.2,4478.9,14.53,151.24,50.71,15.77,143.83,23.54,327.98,Large
+FaultS1_10,10,Wb,Mudstone,Assumed,247.5,190,134.9,4478.9,14.53,151.24,65.89,17.89,143.47,19.58,328.15,Large
+FaultS1_6,6,Pr,Ryolite,Assumed,632.6,164.7,597.8,4699.4,10.2,146.84,4.84,8.93,326.93,5.63,333.42,Large
+FaultS1_6,6,Fi,Sandstone,Secured,514.4,25.3,513,4699.4,10.2,146.84,12.09,16.83,329.9,9.53,332.85,Large
+FaultS1_6,6,GU,Fine sst with siltyclay ,Assumed,4.8,1.9,4.4,4699.4,10.2,146.84,22.76,3.32,326.93,6.04,326.93,Large
+FaultS1_6,6,Ma,Fine sst with siltyclay ,Assumed,111.9,44.1,102.8,4699.4,10.2,146.84,23.11,1.43,146.93,2.93,146.93,Large
+FaultS1_6,6,Hu,Fine sst with siltyclay ,Assumed,260.1,147.6,214.1,4699.4,10.2,146.84,34.21,15.33,326.93,24.76,146.93,Large
+FaultS1_6,6,Ka,Fine sst with siltyclay ,Assumed,291,173.1,233.7,4699.4,10.2,146.84,38.09,25.74,326.93,17.19,146.93,Large
+FaultS1_6,6,Er,Fine sst with siltyclay ,Assumed,276.2,165.1,221.3,4699.4,10.2,146.84,34.55,46.94,326.93,10.84,146.93,Large
+FaultS1_6,6,Di,Fine sst with siltyclay ,Assumed,657.4,99.4,632.4,4699.4,10.2,146.84,32.97,57.18,326.93,2.52,326.93,Large
+FaultS1_6,6,So,Fine sst with siltyclay ,Assumed,490.1,69.9,451.1,4699.4,10.2,146.84,34.99,65.3,326.93,23.3,326.93,Large
+FaultS1_6,6,Gi5,Fine sst with siltyclay ,Assumed,359.9,106.2,337,4699.4,10.2,146.84,3.01,63.07,326.93,9.28,332.66,Large
+FaultS1_6,6,Mg,Mudstone,Assumed,627.3,71.1,616.9,4699.4,10.2,146.84,1,17.13,329.74,15.44,331.58,Large
+FaultS1_6,6,Sb,Mudstone,Assumed,555.4,118,512.1,4699.4,10.2,146.84,25.82,29.19,329.74,17,331.1,Large
+FaultS1_6,6,Hf,Mudstone,Assumed,428.3,8.5,397.1,4699.4,10.2,146.84,50.6,51.69,329.74,34.33,329.37,Large
+FaultS1_6,6,Wb,Mudstone,Assumed,434.5,219.2,333.7,4699.4,10.2,146.84,50.94,6.1,326.43,30.08,329,Large
+FaultS1_7,7,Pr,Ryolite,Assumed,728.3,153.7,697.2,4821.5,9.19,152.78,6.82,1.21,159.55,0.99,340.61,Large
+FaultS1_7,7,Fi,Sandstone,Assumed,610.1,39.5,608.6,4821.5,9.19,152.78,5.17,27.58,326.76,10.05,330.79,Large
+FaultS1_7,7,Ma,Fine sst with siltyclay ,Secured,29.8,10.6,27.9,4821.5,9.19,152.78,20.73,8.75,158.5,0.1,336.9,Large
+FaultS1_7,7,Gu,Fine sst with siltyclay ,Assumed,19,6.8,17.8,4821.5,9.19,152.78,20.85,9.23,336.47,6.03,336.44,Large
+FaultS1_7,7,Hu,Fine sst with siltyclay ,Assumed,35.9,17.4,31.5,4821.5,9.19,152.78,28.89,1.73,158.87,6.04,158.87,Large
+FaultS1_7,7,Ka,Fine sst with siltyclay ,Assumed,393.8,243.8,309.1,4821.5,9.19,152.78,39.44,8.12,158.87,23.23,158.87,Large
+FaultS1_7,7,Er,Fine sst with siltyclay ,Assumed,385.5,208.7,313.3,4821.5,9.19,152.78,26.22,4.81,158.87,4.17,157.6,Large
+FaultS1_7,7,Di,Fine sst with siltyclay ,Assumed,754.8,71.1,720.4,4821.5,9.19,152.78,30.62,0.82,340.32,2.63,338.16,Large
+FaultS1_7,7,So,Fine sst with siltyclay ,Assumed,512.3,128.6,469.7,4821.5,9.19,152.78,39.14,27.4,342,7.77,330.39,Large
+FaultS1_7,7,Gi5,Fine sst with siltyclay ,Assumed,517.1,62,501.9,4821.5,9.19,152.78,1.47,62.68,341.43,9.51,330.83,Large
+FaultS1_7,7,Mg,Mudstone,Assumed,483.3,19.8,482.7,4821.5,9.19,152.78,1,22.83,326.8,26.77,326.55,Large
+FaultS1_7,7,Sb,Mudstone,Assumed,573.5,6.1,551.4,4821.5,9.19,152.78,26.57,31.54,327.45,17.11,334.74,Large
+FaultS1_7,7,Hf,Mudstone,Assumed,648.2,2.2,592.9,4821.5,9.19,152.78,40,7.39,326.58,30.31,326.82,Large
+FaultS1_7,7,Wb,Mudstone,Assumed,678.6,259,565.1,4821.5,9.19,152.78,46.58,6.06,326.55,25.97,326.83,Large
+FaultS1_8,8,Pr,Ryolite,Assumed,614.5,183.1,578.5,4980.6,13.75,143.52,1,1.28,153.23,6.15,163.81,Large
+FaultS1_8,8,Fi,Sandstone,Secured,659.8,57.1,657,4980.6,13.75,143.52,5.16,32.27,332.1,10.94,335.57,Large
+FaultS1_8,8,Di,Fine sst with siltyclay ,Assumed,921.4,20.9,851.7,4980.6,13.75,143.52,43.48,76.29,333.23,1.47,333.23,Large
+FaultS1_8,8,So,Fine sst with siltyclay ,Assumed,663.5,217.6,591,4980.6,13.75,143.52,39.81,38.4,333.23,7.58,331.63,Large
+FaultS1_8,8,Ka,Fine sst with siltyclay ,Secured,237.3,140.2,191.4,4980.6,13.75,143.52,35.74,35.72,333.2,17.11,153.2,Large
+FaultS1_8,8,Gi5,Fine sst with siltyclay ,Assumed,487.7,12.9,480.7,4980.6,13.75,143.52,1.94,27,350.7,9,332.32,Large
+FaultS1_8,8,Er,Fine sst with siltyclay ,Secured,193.1,106.8,160.9,4980.6,13.75,143.52,32.21,4.7,153.22,15.2,153.21,Large
+FaultS1_8,8,Mg,Mudstone,Secured,646.5,3.3,645.3,4980.6,13.75,143.52,4.09,19.05,310.91,19.06,337.84,Large
+FaultS1_8,8,Sb,Mudstone,Assumed,551.3,40,531.6,4980.6,13.75,143.52,32.74,6.87,318.07,20.37,334.06,Large
+FaultS1_8,8,Hf,Mudstone,Assumed,542.2,103.7,492.7,4980.6,13.75,143.52,20.28,5.78,318.75,41.15,297.08,Large
+FaultS1_8,8,Wb,Mudstone,Assumed,589.6,262.3,406.2,4980.6,13.75,143.52,64.24,3.66,321.16,29.57,296.76,Large
+FaultS1_4,4,Pr,Ryolite,Assumed,508.9,73.2,503.2,5203.7,12.03,148.62,5.97,45.29,349.48,1.27,327.7,Large
+FaultS1_4,4,Fi,Sandstone,Secured,842,180.9,814.1,5203.7,12.03,148.62,12.31,2.9,323.38,21.31,323.49,Large
+FaultS1_4,4,La,Fine sst with siltyclay ,Secured,114,93.3,139.9,5203.7,12.03,148.62,34.81,22.16,323.57,9.66,143.59,Large
+FaultS1_4,4,Gu,Fine sst with siltyclay ,Secured,110.8,58.8,93.8,5203.7,12.03,148.62,29.92,25.56,323.57,6.32,143.59,Large
+FaultS1_4,4,Ma,Fine sst with siltyclay ,Secured,292.5,120.4,265.2,5203.7,12.03,148.62,15.35,15.63,323.57,5.95,143.26,Large
+FaultS1_4,4,Hu,Fine sst with siltyclay ,Secured,376,111.9,341.7,5203.7,12.03,148.62,6.34,15.62,323.57,33.46,323.57,Large
+FaultS1_4,4,Ka,Fine sst with siltyclay ,Secured,464.6,94.9,477.9,5203.7,12.03,148.62,9.12,25.47,326.57,1.07,143.57,Large
+FaultS1_4,4,Er,Fine sst with siltyclay ,Secured,574.4,120.2,559.7,5203.7,12.03,148.62,11.7,28.45,333.56,8.06,329.47,Large
+FaultS1_4,4,Di,Fine sst with siltyclay ,Secured,554.2,27,541,5203.7,12.03,148.62,27,45.29,349.48,1.27,327.7,Large
+FaultS1_4,4,So,Fine sst with siltyclay ,Secured,632.8,68.1,607.3,5203.7,12.03,148.62,22.2,42.9,355.59,43.21,51.03,Large
+FaultS1_4,4,Gi5,Fine sst with siltyclay ,Secured,985.9,93.7,937.6,5203.7,12.03,148.62,14.13,41.84,11.63,49.32,29.16,Large
+FaultS1_4,4,Mg,Mudstone,Secured,911.9,107.9,883.4,5203.7,12.03,148.62,21.64,18.78,323.52,54.15,323.34,Large
+FaultS1_4,4,Sb,Mudstone,Secured,670,215,632,5203.7,12.03,148.62,20.64,36.11,323.34,49.28,323.34,Large
+FaultS1_4,4,Hf,Mudstone,Secured,237.8,83.6,221.9,5203.7,12.03,148.62,27.31,2.73,323.34,24.73,332.32,Large
+FaultS1_4,4,Wb,Mudstone,Secured,244.3,172,171.6,5203.7,12.03,148.62,50.19,6.45,323.5,21.91,331.82,Large
